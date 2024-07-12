@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
       start: "-20% 25%",
       end: "20% 50%",
       scrub: true,
-      markers: true,
+    //   markers: true,
     },
   });
 
